@@ -1,0 +1,5 @@
+# Need Python 3.8 or higher
+# Also need Lua installed separately
+# That's pretty much it
+# discord.py
+# aiohttp
